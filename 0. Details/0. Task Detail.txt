@@ -1,0 +1,23 @@
+Hi Applicant,
+
+We hope this message finds you well and excited about joining SoarX as a Web Developer intern!
+
+As part of the application process, we have a fun task for you: create a rotating wheel effect using HTML and CSS. This task will not only showcase your technical skills but also give us a glimpse of your creativity.
+
+Here's a screen-recorded video attached to this email demonstrating the effect we're looking for. You can use it as a reference while working on your task.
+
+Task Details: Create a rotating wheel that activates on hover using HTML and CSS. You're free to add your creative touch to it.
+
+Submission: Please reply to this email with the following:
+
+1. GitHub Repo Link.
+2. GitHub Pages Hosted Page Link.
+Deadline: We kindly request you to submit your task as soon as possible.
+
+We're excited to see your skills in action! If you have any questions or need clarification, feel free to reach out.
+
+Best of luck, and we look forward to reviewing your submission!
+
+Warm regards,
+
+Team SoarX
